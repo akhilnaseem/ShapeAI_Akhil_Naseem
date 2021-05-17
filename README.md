@@ -1,0 +1,2 @@
+# ShapeAI_Akhil_Naseem
+Basic Python and Deep Learning-7 Days Hands on Bootcamp
